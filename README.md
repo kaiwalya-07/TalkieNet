@@ -19,8 +19,8 @@ A real-time chat room application utilizing socket programming and TCP/IP protoc
    ```
    cd path/to/project
 ### Run the server using
-    ```
-       python3 server.py localhost 8000
+    ``` 
+    python3 server.py localhost 8000
 ### Open another terminal window and run multiple client instances:
        ```
        python3 client.py localhost 8000
