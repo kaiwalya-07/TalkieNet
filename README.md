@@ -16,17 +16,20 @@ A real-time chat room application utilizing socket programming and TCP/IP protoc
 1. Open a terminal.
 
 2. Navigate to the project directory:
-   ```
+   ```bash
    cd path/to/project
+   
    ```
 ### Run the server using
-    ``` 
-    python3 server.py localhost 8000
-    ```
+   ```bash
+   cd path/to/project
+   
+   ```
 ### Open another terminal window and run multiple client instances:
-       ```
-       python3 client.py localhost 8000
-       ```
+   ```bash
+   cd path/to/project
+   
+   ```
 
 ### Usage
 Follow the on-screen instructions in the client terminal for creating/joining groups and sending/receiving messages.
