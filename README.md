@@ -18,6 +18,8 @@ A real-time chat room application utilizing socket programming and TCP/IP protoc
 2. Navigate to the project directory:
    ```bash
    cd path/to/project
-###Run the server using
+### Run the server using
   ```bash
    python3 server.py localhost 8000
+
+### Linux
