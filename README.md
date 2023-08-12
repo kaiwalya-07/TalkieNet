@@ -20,12 +20,12 @@ A real-time chat room application utilizing socket programming and TCP/IP protoc
    cd path/to/project
    
    ```
-### Run the server using
+3. Run the server using
    ```bash
    python server.py localhost 8000
    
    ```
-### Open another terminal window and run multiple client instances:
+4. Open another terminal window and run multiple client instances:
    ```bash
    python client.py localhost 8000
    
